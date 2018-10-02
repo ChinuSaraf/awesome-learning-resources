@@ -24,7 +24,7 @@
 
 ## Android
 
--[Android-Developers-Samples](https://developer.android.com/samples/)
+- [Android-Developers-Samples](https://developer.android.com/samples/)
 
 ## Blockchain
 
