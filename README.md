@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
--[Android Application Developement](#android)
+- [Android Application Developement](#android)
 - [Blockchain](#blockchain)
 - [CSS](#css)
 - [Developer Blog](#developer-blog)
